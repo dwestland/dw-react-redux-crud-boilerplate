@@ -1,0 +1,20 @@
+.ui.container {
+  padding: 20px 0;
+}
+
+.ui.dimmer {
+  background-color: rgba(0,0,0,.5);
+}
+
+.ui.form {
+  padding: 10px 30px;
+}
+
+.ui.modal .actions>.button {
+  margin: 10px 10px 10px 0;
+}
+
+.message-area {
+  height: 90px;
+  padding: 10px 0;
+}

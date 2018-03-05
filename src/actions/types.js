@@ -1,0 +1,9 @@
+export const GET_USERS = 'GET_USERS';
+export const GET_USER_ERROR = 'GET_USER_ERROR';
+export const ADD_USER = 'ADD_USER';
+export const ADD_USER_ERROR = 'ADD_USER_ERROR';
+export const DELETE_USER = 'DELETE_USER';
+export const DELETE_USER_ERROR = 'DELETE_USER_ERROR';
+export const UPDATE_USER = 'UPDATE_USER';
+export const UPDATE_USER_ERROR = 'UPDATE_USER_ERROR';
+export const CLEAR_ALL_MESSAGES = 'CLEAR_ALL_MESSAGES';
